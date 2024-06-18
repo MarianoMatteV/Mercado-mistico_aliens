@@ -24,4 +24,5 @@ O aluno Mariano Matte Viegas fez a página inicial, fez os produtos, criou a des
 
 O aluno Artur Correa fez a página de cadastro, em conjunto com o Mariano fez o localStorage para deixar o carrinho funcional, fez a página de pagamento e ajudou na estilização de outras partes do código.
 
-O aluno Lucas Dionísio fez a página do carrinho.
+Artur Correa e Mariano fizeram em conjunto a página de carrinhos
+
